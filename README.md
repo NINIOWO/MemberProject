@@ -19,3 +19,20 @@ CCCCCCCCCCCCCCCC<br>
 [Google 後面()沒有空格會跟字合體](http://google.com)
 
 [yahoo](http://tw.yahoo.com)
+
+<ul type="disk">
+<li>台北捷運板南線</li>
+<li>台北捷運淡水線</li>
+<li>台北捷運木柵線</li>
+<li>台北捷運新店線</li>
+<li>台北捷運中和線</li>
+<li>台北捷運內湖線</li>
+</ul>
+
+<hr>
+<ol type="1">
+<li>Apples</li>
+<li>Bananas</li>
+<li>Lemons</li>
+<li>Oranges</li>
+</ol>
