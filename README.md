@@ -11,3 +11,7 @@ AAAAAAAAAAAAAAAAAA<br>
 BBBBBBBBBBBB
 <hr>
 CCCCCCCCCCCCCCCC
+
+[Google] (http://google.com)
+###[Google] (http://google.com)
+[Google](http://google.com)
