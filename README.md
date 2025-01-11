@@ -10,8 +10,10 @@ Html(簡單)<br>
 AAAAAAAAAAAAAAAAAA<br>
 BBBBBBBBBBBB
 <hr>
-CCCCCCCCCCCCCCCC
+CCCCCCCCCCCCCCCC<br>
+
+##[Google] (http://google.com)<br>
 
 [Google] (http://google.com)<br>
-[##Google] (http://google.com)<br>
+
 [Google](http://google.com)<br>
