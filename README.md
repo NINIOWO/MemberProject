@@ -20,9 +20,9 @@ CCCCCCCCCCCCCCCC<br>
 
 [yahoo](http://tw.yahoo.com)
 
-[PDF] (doc/6_Java EE Application.pdf)
+[PDF](doc/6_Java EE Application.pdf)
 
-![圖片] (pic/GitHub.jpg)
+![圖片](pic/GitHub.jpg)
 
 <ul type="disk">
 <li>台北捷運板南線</li>
