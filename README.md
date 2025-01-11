@@ -20,7 +20,7 @@ CCCCCCCCCCCCCCCC<br>
 
 [yahoo](http://tw.yahoo.com)
 
-[PDF](doc/6_JavaEEApplication.pdf)
+[PDF檔名不能有空格](doc/6_JavaEEApplication.pdf)
 
 ![圖片](pic/GitHub.jpg)
 
